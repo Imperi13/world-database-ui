@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link> |
       <router-link to="/axios">Axios</router-link> |
       <router-link to="/city/Tokyo">Tokyo</router-link> |
+      <router-link to="/countrylist">CountryList</router-link> |
       <router-link to="/login">Login</router-link>
     </div>
     <router-view />
